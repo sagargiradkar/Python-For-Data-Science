@@ -1,0 +1,121 @@
+2023-07-20 21:03:13,183 DEBUG pickle loaded: /snap/jupyter/6/lib/python3.7/logging/__init__.py
+2023-07-20 21:03:16,386 DEBUG diff parser start
+2023-07-20 21:03:16,386 DEBUG line_lengths old: 2; new: 2
+2023-07-20 21:03:16,387 DEBUG -> code[equal] old[1:1] new[1:1]
+2023-07-20 21:03:16,390 DEBUG parse_part from 1 to 2 (to 1 in part parser)
+2023-07-20 21:03:16,391 DEBUG -> code[replace] old[2:2] new[2:2]
+2023-07-20 21:03:16,392 DEBUG diff parser end
+2023-07-20 21:05:10,025 DEBUG diff parser start
+2023-07-20 21:05:10,026 DEBUG line_lengths old: 2; new: 5
+2023-07-20 21:05:10,026 DEBUG -> code[equal] old[1:1] new[1:1]
+2023-07-20 21:05:10,032 DEBUG parse_part from 1 to 2 (to 2 in part parser)
+2023-07-20 21:05:10,034 DEBUG -> code[replace] old[2:2] new[2:5]
+2023-07-20 21:05:10,038 DEBUG parse_part from 3 to 5 (to 4 in part parser)
+2023-07-20 21:05:10,039 DEBUG diff parser end
+2023-07-20 21:05:12,990 DEBUG diff parser start
+2023-07-20 21:05:12,990 DEBUG line_lengths old: 5; new: 5
+2023-07-20 21:05:12,991 DEBUG -> code[equal] old[1:4] new[1:4]
+2023-07-20 21:05:12,991 DEBUG copy old[1:4] new[1:2]
+2023-07-20 21:05:12,993 DEBUG parse_part from 3 to 5 (to 4 in part parser)
+2023-07-20 21:05:12,994 DEBUG -> code[replace] old[5:5] new[5:5]
+2023-07-20 21:05:12,994 DEBUG diff parser end
+2023-07-20 21:05:33,114 DEBUG diff parser start
+2023-07-20 21:05:33,115 DEBUG line_lengths old: 5; new: 6
+2023-07-20 21:05:33,115 DEBUG -> code[equal] old[1:4] new[1:4]
+2023-07-20 21:05:33,116 DEBUG copy old[1:4] new[1:2]
+2023-07-20 21:05:33,120 DEBUG parse_part from 3 to 6 (to 5 in part parser)
+2023-07-20 21:05:33,120 DEBUG -> code[replace] old[5:5] new[5:6]
+2023-07-20 21:05:33,121 DEBUG diff parser end
+2023-07-20 21:05:33,150 DEBUG pickle loaded: /snap/jupyter/6/lib/python3.7/site-packages/IPython/core/autocall.py
+2023-07-20 21:05:36,126 DEBUG diff parser start
+2023-07-20 21:05:36,126 DEBUG line_lengths old: 6; new: 6
+2023-07-20 21:05:36,127 DEBUG -> code[equal] old[1:5] new[1:5]
+2023-07-20 21:05:36,128 DEBUG copy old[1:5] new[1:2]
+2023-07-20 21:05:36,131 DEBUG parse_part from 3 to 6 (to 5 in part parser)
+2023-07-20 21:05:36,132 DEBUG -> code[replace] old[6:6] new[6:6]
+2023-07-20 21:05:36,132 DEBUG diff parser end
+2023-07-20 21:06:05,201 DEBUG diff parser start
+2023-07-20 21:06:05,201 DEBUG line_lengths old: 6; new: 7
+2023-07-20 21:06:05,202 DEBUG -> code[equal] old[1:5] new[1:5]
+2023-07-20 21:06:05,202 DEBUG copy old[1:5] new[1:2]
+2023-07-20 21:06:05,206 DEBUG parse_part from 3 to 7 (to 6 in part parser)
+2023-07-20 21:06:05,206 DEBUG -> code[replace] old[6:6] new[6:7]
+2023-07-20 21:06:05,206 DEBUG diff parser end
+2023-07-20 21:06:07,226 DEBUG diff parser start
+2023-07-20 21:06:07,227 DEBUG line_lengths old: 7; new: 7
+2023-07-20 21:06:07,227 DEBUG -> code[equal] old[1:6] new[1:6]
+2023-07-20 21:06:07,228 DEBUG copy old[1:6] new[1:2]
+2023-07-20 21:06:07,232 DEBUG parse_part from 3 to 7 (to 6 in part parser)
+2023-07-20 21:06:07,233 DEBUG -> code[replace] old[7:7] new[7:7]
+2023-07-20 21:06:07,233 DEBUG diff parser end
+2023-07-20 21:06:23,046 DEBUG diff parser start
+2023-07-20 21:06:23,046 DEBUG line_lengths old: 7; new: 8
+2023-07-20 21:06:23,047 DEBUG -> code[equal] old[1:6] new[1:6]
+2023-07-20 21:06:23,047 DEBUG copy old[1:6] new[1:2]
+2023-07-20 21:06:23,052 DEBUG parse_part from 3 to 8 (to 7 in part parser)
+2023-07-20 21:06:23,053 DEBUG -> code[replace] old[7:7] new[7:8]
+2023-07-20 21:06:23,053 DEBUG diff parser end
+2023-07-20 21:06:26,207 DEBUG diff parser start
+2023-07-20 21:06:26,207 DEBUG line_lengths old: 8; new: 8
+2023-07-20 21:06:26,208 DEBUG -> code[equal] old[1:7] new[1:7]
+2023-07-20 21:06:26,208 DEBUG copy old[1:7] new[1:2]
+2023-07-20 21:06:26,213 DEBUG parse_part from 3 to 8 (to 7 in part parser)
+2023-07-20 21:06:26,214 DEBUG -> code[replace] old[8:8] new[8:8]
+2023-07-20 21:06:26,214 DEBUG diff parser end
+2023-07-20 21:06:30,444 DEBUG diff parser start
+2023-07-20 21:06:30,445 DEBUG line_lengths old: 8; new: 8
+2023-07-20 21:06:30,445 DEBUG -> code[equal] old[1:7] new[1:7]
+2023-07-20 21:06:30,446 DEBUG copy old[1:7] new[1:2]
+2023-07-20 21:06:30,451 DEBUG parse_part from 3 to 8 (to 7 in part parser)
+2023-07-20 21:06:30,452 DEBUG -> code[replace] old[8:8] new[8:8]
+2023-07-20 21:06:30,453 DEBUG diff parser end
+2023-07-20 21:07:17,781 INFO This is a start of my code and i am try to enter 4 and 5
+2023-07-20 21:07:17,783 INFO Executed succesully
+2023-07-20 21:07:24,567 ERROR Invalid alias: The name clear can't be aliased because it is another magic command.
+2023-07-20 21:07:24,567 ERROR Invalid alias: The name more can't be aliased because it is another magic command.
+2023-07-20 21:07:24,568 ERROR Invalid alias: The name less can't be aliased because it is another magic command.
+2023-07-20 21:07:24,568 ERROR Invalid alias: The name man can't be aliased because it is another magic command.
+2023-07-20 21:07:35,377 INFO This is a start of my code and i am try to enter 4 and 5
+2023-07-20 21:07:35,378 INFO Executed succesully
+2023-07-20 21:08:36,675 INFO This is a start of my code and i am try to enter 4 and 0
+2023-07-20 21:08:36,677 ERROR Error has happened 
+2023-07-20 21:08:36,677 ERROR Exception occured division by zero
+Traceback (most recent call last):
+  File "<ipython-input-2-38b075b2ac20>", line 4, in divbyzero
+    div = a/b
+ZeroDivisionError: division by zero
+2023-07-20 21:11:47,054 INFO This is a start of my code and i am try to enter 4 and 0
+2023-07-20 21:11:47,055 ERROR Error has happened 
+2023-07-20 21:11:47,056 ERROR Exception occured division by zero
+Traceback (most recent call last):
+  File "<ipython-input-2-38b075b2ac20>", line 4, in divbyzero
+    div = a/b
+ZeroDivisionError: division by zero
+2023-07-20 21:14:42,896 INFO This is a start of my code and i am try to enter 4 and 5
+2023-07-20 21:14:42,897 INFO Executed succesully
+2023-07-20 21:14:43,629 INFO This is a start of my code and i am try to enter 4 and 0
+2023-07-20 21:14:43,630 ERROR Error has happened 
+2023-07-20 21:14:43,631 ERROR Exception occured division by zero
+Traceback (most recent call last):
+  File "<ipython-input-9-38b075b2ac20>", line 4, in divbyzero
+    div = a/b
+ZeroDivisionError: division by zero
+2023-07-20 21:17:46,259 DEBUG pickle loaded: /snap/jupyter/6/lib/python3.7/logging/__init__.py
+2023-07-20 21:17:48,245 DEBUG diff parser start
+2023-07-20 21:17:48,246 DEBUG line_lengths old: 1; new: 1
+2023-07-20 21:17:48,246 DEBUG -> code[replace] old[1:1] new[1:1]
+2023-07-20 21:17:48,248 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2023-07-20 21:17:48,249 DEBUG diff parser end
+2023-07-20 21:17:58,116 INFO This is a start of my code and i am try to enter 4 and 5
+2023-07-20 21:17:58,118 INFO Executed succesully
+2023-07-20 21:17:58,400 INFO This is a start of my code and i am try to enter 4 and 0
+2023-07-20 21:17:58,401 ERROR Error has happened 
+2023-07-20 21:17:58,401 ERROR Exception occured division by zero
+Traceback (most recent call last):
+  File "<ipython-input-14-38b075b2ac20>", line 4, in divbyzero
+    div = a/b
+ZeroDivisionError: division by zero
+2023-07-20 21:18:34,730 ERROR Invalid alias: The name clear can't be aliased because it is another magic command.
+2023-07-20 21:18:34,730 ERROR Invalid alias: The name more can't be aliased because it is another magic command.
+2023-07-20 21:18:34,730 ERROR Invalid alias: The name less can't be aliased because it is another magic command.
+2023-07-20 21:18:34,731 ERROR Invalid alias: The name man can't be aliased because it is another magic command.
